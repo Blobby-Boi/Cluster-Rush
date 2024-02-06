@@ -1,2 +1,3 @@
-# nacho-cs.gituhb.io
-cluster rush, an unblocked game for students in school :)
+# https://blobby-boi.github.io/Cluster-Rush/
+## Cluster Rush
+An alternative link to play Cluster Rush!
